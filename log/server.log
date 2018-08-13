@@ -1,0 +1,29 @@
+[2018-07-14 16:04:18,273] [DEBUG] [HTMLTestRunner.py:_generate_report:750] []
+[2018-07-16 14:05:19,343] [DEBUG] [HTMLTestRunner.py:_generate_report:750] []
+[2018-07-16 14:05:19,344] [DEBUG] [HTMLTestRunner.py:_generate_report:750] []
+[2018-07-16 14:05:19,345] [INFO] [main.py:run:22] <lib.HTMLTestRunner._TestResult run=2 errors=0 failures=0>
+[2018-07-16 14:07:35,264] [DEBUG] [HTMLTestRunner.py:_generate_report:750] []
+[2018-07-16 14:07:35,264] [INFO] [main.py:run:22] 运行结果<lib.HTMLTestRunner._TestResult run=1 errors=0 failures=0>
+[2018-07-16 14:08:51,842] [DEBUG] [HTMLTestRunner.py:_generate_report:750] []
+[2018-07-16 14:11:34,365] [DEBUG] [HTMLTestRunner.py:_generate_report:750] []
+[2018-07-16 14:11:34,366] [INFO] [main.py:run:22] 共运行[(0, <test_login.TestLogin testMethod=test_login>, '', '')]条，成功1条，失败0条
+[2018-07-16 14:13:26,176] [DEBUG] [HTMLTestRunner.py:_generate_report:750] []
+[2018-07-16 14:13:26,176] [INFO] [main.py:run:22] 共运行1条，成功1条，失败0条
+[2018-07-16 14:20:46,213] [DEBUG] [HTMLTestRunner.py:_generate_report:751] []
+[2018-07-16 14:20:46,214] [INFO] [main.py:run:22] 共运行0条，成功1条，失败0条
+[2018-07-16 14:22:30,487] [DEBUG] [HTMLTestRunner.py:_generate_report:754] []
+[2018-07-16 14:22:30,488] [INFO] [main.py:run:22] 共运行1条，成功1条，失败0条
+[2018-07-16 16:10:34,909] [DEBUG] [HTMLTestRunner.py:_generate_report:754] []
+[2018-07-16 16:10:34,909] [INFO] [main.py:run:22] 共运行1条，成功0条，失败0条
+[2018-07-16 16:12:05,243] [DEBUG] [HTMLTestRunner.py:_generate_report:754] []
+[2018-07-16 16:12:05,243] [INFO] [main.py:run:22] 共运行1条，成功0条，失败0条
+[2018-07-16 16:35:26,040] [DEBUG] [HTMLTestRunner.py:_generate_report:754] []
+[2018-07-16 16:35:26,041] [INFO] [main.py:run:22] 共运行1条，成功0条，失败0条
+[2018-07-16 16:36:59,003] [DEBUG] [HTMLTestRunner.py:_generate_report:754] []
+[2018-07-16 16:36:59,004] [INFO] [main.py:run:22] 共运行1条，成功0条，失败0条
+[2018-07-16 16:37:58,686] [DEBUG] [HTMLTestRunner.py:_generate_report:754] []
+[2018-07-16 16:37:58,687] [INFO] [main.py:run:22] 共运行1条，成功0条，失败0条
+[2018-07-16 16:39:11,819] [DEBUG] [HTMLTestRunner.py:_generate_report:754] []
+[2018-07-16 16:39:11,819] [INFO] [main.py:run:22] 共运行1条，成功1条，失败0条
+[2018-07-17 13:46:28,312] [DEBUG] [HTMLTestRunner.py:_generate_report:754] []
+[2018-07-17 13:46:28,313] [INFO] [main.py:run:22] 共运行1条，成功1条，失败0条
